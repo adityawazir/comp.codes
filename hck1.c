@@ -5,7 +5,7 @@ int main()
  unsigned int T;
  long long int a;
  long long int b;
- long long int k;
+ long long int ksj;
  scanf("%u",&T);
  for(int i=1;i<=T;i++)
  {
