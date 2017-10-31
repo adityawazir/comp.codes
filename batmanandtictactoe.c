@@ -15,6 +15,7 @@ int main()
             scanf("%c",&a[i][j]);
         }
     }
+        //confusing
     for(i=0;i+2<4;i++)
     {
         for(j=0;j+2<4;j++)
