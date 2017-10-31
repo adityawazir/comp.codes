@@ -2,6 +2,7 @@
 
 int main()
 {
+    //add
     long int t,n,s,i;
     s=0;
     scanf("%ld",&t);
