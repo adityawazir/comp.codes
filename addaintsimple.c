@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-//fuck this code
+//fuck  code
 int main()
 {
     int n,i,k,m;
