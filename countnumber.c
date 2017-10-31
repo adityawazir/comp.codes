@@ -4,6 +4,7 @@ int main()
 {
     int i,t,n,j,k,flag;
     static int count;
+    flag=1;
     flag=0;
     char s[100000];
     scanf("%d",&t);
